@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./BaseLib/libs/xercesImpl-2.12.0.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaseLib/libs/xercesImpl-2.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

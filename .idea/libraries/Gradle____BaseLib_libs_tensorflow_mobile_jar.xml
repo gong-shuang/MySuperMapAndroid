@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./BaseLib/libs/tensorflow-mobile.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaseLib/libs/tensorflow-mobile.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

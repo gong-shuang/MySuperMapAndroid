@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./BaseLib/libs/OpenGLTileExtent.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaseLib/libs/OpenGLTileExtent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

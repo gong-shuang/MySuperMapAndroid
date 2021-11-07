@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="/opt/gradle-7.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/3dar" />
+            <option value="$PROJECT_DIR$/3dnavi" />
+            <option value="$PROJECT_DIR$/AI_posenet" />
+            <option value="$PROJECT_DIR$/AImeasure" />
+            <option value="$PROJECT_DIR$/ARCartograph" />
+            <option value="$PROJECT_DIR$/ARVideoWithMap" />
+            <option value="$PROJECT_DIR$/BaseLib" />
+            <option value="$PROJECT_DIR$/NonRecyclableOpenmap" />
+            <option value="$PROJECT_DIR$/OnlineGroup" />
+            <option value="$PROJECT_DIR$/addlabel" />
+            <option value="$PROJECT_DIR$/arEffect" />
+            <option value="$PROJECT_DIR$/areffect_3DTerrain" />
+            <option value="$PROJECT_DIR$/armap" />
+            <option value="$PROJECT_DIR$/arnavigation" />
+            <option value="$PROJECT_DIR$/basedemo" />
+            <option value="$PROJECT_DIR$/bookmarks" />
+            <option value="$PROJECT_DIR$/boundsquery" />
+            <option value="$PROJECT_DIR$/bufferanalyst" />
+            <option value="$PROJECT_DIR$/carsmonitordemo" />
+            <option value="$PROJECT_DIR$/clip" />
+            <option value="$PROJECT_DIR$/collector" />
+            <option value="$PROJECT_DIR$/compasss" />
+            <option value="$PROJECT_DIR$/coordsystranslator" />
+            <option value="$PROJECT_DIR$/dataconversion" />
+            <option value="$PROJECT_DIR$/dataservice" />
+            <option value="$PROJECT_DIR$/datavisualizationdemo" />
+            <option value="$PROJECT_DIR$/displaylocation" />
+            <option value="$PROJECT_DIR$/dynamicchart" />
+            <option value="$PROJECT_DIR$/dynamicshow" />
+            <option value="$PROJECT_DIR$/editdemo" />
+            <option value="$PROJECT_DIR$/facilityanalyst" />
+            <option value="$PROJECT_DIR$/feature-show-info" />
+            <option value="$PROJECT_DIR$/feature-trackinglayer" />
+            <option value="$PROJECT_DIR$/findpath" />
+            <option value="$PROJECT_DIR$/fingerslip" />
+            <option value="$PROJECT_DIR$/frequentlyopenmap" />
+            <option value="$PROJECT_DIR$/geometryinfo" />
+            <option value="$PROJECT_DIR$/glmapcachedemo" />
+            <option value="$PROJECT_DIR$/hpcollector" />
+            <option value="$PROJECT_DIR$/imagedataopration" />
+            <option value="$PROJECT_DIR$/imobileAI" />
+            <option value="$PROJECT_DIR$/imobileARcontrol" />
+            <option value="$PROJECT_DIR$/indoornavi" />
+            <option value="$PROJECT_DIR$/indoornavigation3D" />
+            <option value="$PROJECT_DIR$/intelligencetour" />
+            <option value="$PROJECT_DIR$/iportalunity" />
+            <option value="$PROJECT_DIR$/itinerary" />
+            <option value="$PROJECT_DIR$/legend" />
+            <option value="$PROJECT_DIR$/license" />
+            <option value="$PROJECT_DIR$/mapedit" />
+            <option value="$PROJECT_DIR$/mapoverlay" />
+            <option value="$PROJECT_DIR$/mapprecache" />
+            <option value="$PROJECT_DIR$/mchart" />
+            <option value="$PROJECT_DIR$/mdatacollector" />
+            <option value="$PROJECT_DIR$/mobilegis" />
+            <option value="$PROJECT_DIR$/mqdemo" />
+            <option value="$PROJECT_DIR$/navidemo" />
+            <option value="$PROJECT_DIR$/navigation2" />
+            <option value="$PROJECT_DIR$/naviintegration" />
+            <option value="$PROJECT_DIR$/onlinechart" />
+            <option value="$PROJECT_DIR$/onlinelicense" />
+            <option value="$PROJECT_DIR$/onlineservice" />
+            <option value="$PROJECT_DIR$/openCVLibrary341" />
+            <option value="$PROJECT_DIR$/openlocaldata" />
+            <option value="$PROJECT_DIR$/openofflinescene" />
+            <option value="$PROJECT_DIR$/pathsmoothtool" />
+            <option value="$PROJECT_DIR$/platerecognize" />
+            <option value="$PROJECT_DIR$/plotanimation" />
+            <option value="$PROJECT_DIR$/plotdemo" />
+            <option value="$PROJECT_DIR$/plotting" />
+            <option value="$PROJECT_DIR$/querydemo" />
+            <option value="$PROJECT_DIR$/realtimemessage" />
+            <option value="$PROJECT_DIR$/recyclelicense" />
+            <option value="$PROJECT_DIR$/screenshot" />
+            <option value="$PROJECT_DIR$/segmentation" />
+            <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/sinavi" />
+            <option value="$PROJECT_DIR$/spatialanalystdemo" />
+            <option value="$PROJECT_DIR$/speechcontrol" />
+            <option value="$PROJECT_DIR$/speechrecognizer" />
+            <option value="$PROJECT_DIR$/swipedemo" />
+            <option value="$PROJECT_DIR$/theme" />
+            <option value="$PROJECT_DIR$/theme-grid-unique" />
+            <option value="$PROJECT_DIR$/themedemo" />
+            <option value="$PROJECT_DIR$/themevisualization" />
+            <option value="$PROJECT_DIR$/topodataprocess" />
+            <option value="$PROJECT_DIR$/track" />
+            <option value="$PROJECT_DIR$/trackingmap" />
+            <option value="$PROJECT_DIR$/vectorcache" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

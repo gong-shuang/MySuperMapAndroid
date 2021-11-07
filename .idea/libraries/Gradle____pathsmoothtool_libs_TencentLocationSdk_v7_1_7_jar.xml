@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./pathsmoothtool/libs/TencentLocationSdk_v7.1.7.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pathsmoothtool/libs/TencentLocationSdk_v7.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

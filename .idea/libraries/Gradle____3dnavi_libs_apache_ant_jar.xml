@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./3dnavi/libs/apache.ant.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/3dnavi/libs/apache.ant.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

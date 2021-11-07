@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yalantis:phoenix:1.2.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa5dcf40e559d6086236c34edcff75c9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa5dcf40e559d6086236c34edcff75c9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa5dcf40e559d6086236c34edcff75c9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
